@@ -54,6 +54,8 @@ ul {
 /*    scroll bar below   */
 .progress-container {
   display: block;
+  height: 20px;
+  color: #F8FFFF;
 }
 .navbar {
   position: fixed;
