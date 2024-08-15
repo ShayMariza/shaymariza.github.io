@@ -30,28 +30,30 @@ h2 {
 /*
 NAV BAR HERE
 }
-
 */
 ul {
   display:flex;
-  justify-content: end;
+  justify-content: center;
   list-style-type: none;
   background-color: #F20266;
 }
 .navElement{
+  
   text-decoration:none;  
   color: #F8FFFF;
-  padding:1em;
+  padding: 8px;
   font-family: 'Azeret Mono';
   font-size: 22px;
 }
 
 .navElement:hover {
+  
   background-color: #FFB3C7;
   color: #2D343B;
 }
 /*    scroll bar below   */
 .progress-container {
+  width: 100%;
   display: block;
   height: 20px;
   color: #F8FFFF;
