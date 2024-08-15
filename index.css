@@ -2,7 +2,6 @@ html, body {
   height: 100%;
   width: 100%;
   background-color: #000c20;
-  margin: 5px;
   overflow: auto;
   font-family: 'Aresenal SC';
   padding-top: 20px;
@@ -10,8 +9,7 @@ html, body {
 .title{
   background-color: #000c20;
   border-bottom: 2px;
-  padding: 20px;
-  margin: 15px;
+  margin: 50px;
   border-radius: 8px;
   text-align: center;
 }
