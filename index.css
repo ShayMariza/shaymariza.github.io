@@ -38,8 +38,8 @@ ul {
   background-color: #F20266;
 }
 .navElement{
-  
-  text-decoration:none;  
+  justify-content: center;
+  text-decoration:none;
   color: #F8FFFF;
   padding: 8px;
   font-family: 'Azeret Mono';
