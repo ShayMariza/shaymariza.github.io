@@ -5,6 +5,7 @@ html, body {
   margin: 5px;
   overflow: auto;
   font-family: 'Aresenal SC';
+  padding-top: 20px;
 }
 .title{
   background-color: #000c20;
@@ -76,7 +77,6 @@ ul {
 .progress-bar {
   height: 8px;
   background: #F20266;
-  padding-left: 0;
 }
 
 p {
