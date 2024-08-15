@@ -1,15 +1,16 @@
 html, body {
+  margin: 0;
+  padding: 0;
   height: 100%;
   width: 100%;
   background-color: #000c20;
-  overflow: auto;
   font-family: 'Aresenal SC';
-  padding-top: 20px;
+  padding-top: 40px;
 }
 .title{
   background-color: #000c20;
   border-bottom: 2px;
-  margin: 50px;
+  margin: 25px;
   border-radius: 8px;
   text-align: center;
 }
@@ -42,7 +43,7 @@ ul {
   text-decoration:none;
   color: #F8FFFF;
   padding: 8px;
-  font-family: 'Azeret Mono';
+  font-family: 'Arsenal SC';
   font-size: 22px;
 }
 
