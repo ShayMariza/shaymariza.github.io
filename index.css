@@ -1,7 +1,49 @@
 html, body {
   height: 100%;
   width: 100%;
-  background-color: #b3ffff;
+  background-color: #000c20;
   margin: 5px;
   overflow: auto;
 }
+h1 {
+  font-family: 'Arsenal SC';
+  font-size: 30px;
+  color: antiquewhite;
+}
+p {
+  font-family: 'Arsenal SC';
+  font-size: 18px;
+  color: antiquewhite;
+}
+
+
+
+
+
+
+
+
+.arsenal-sc-regular {
+  font-family: "Arsenal SC", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.arsenal-sc-bold {
+  font-family: "Arsenal SC", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.arsenal-sc-regular-italic {
+  font-family: "Arsenal SC", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.arsenal-sc-bold-italic {
+  font-family: "Arsenal SC", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
