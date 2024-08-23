@@ -7,15 +7,13 @@ html, body {
   font-family: 'Aresenal SC';
   padding-top: 42px;
 }
-.class{
-  margin-top: 2em;
-}
+
 .title{
   color: #2E2F2F;
   border: 2px;
   border-bottom-color: #2E2F2F
-  margin: 25px;
-  border-radius: 8px;
+  margin: 5px;
+  border-radius: 4px;
   text-align: center;
 }
 .subTitleInfo{
