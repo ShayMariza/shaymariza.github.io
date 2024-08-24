@@ -14,7 +14,7 @@ html, body {
   border-bottom-color: #2E2F2F
   margin: 5px;
   border-radius: 4px;
-  text-align: center;
+  
 }
 .subTitleInfo{
   text-align: center;
@@ -26,7 +26,7 @@ h1 {
   font-family: 'Arsenal SC';
   font-size: 30px;
   color: #2E2F2F;
-  text-align: center;
+  
 }
 h2 {
   font-family: 'Arsenal SC';
@@ -34,6 +34,7 @@ h2 {
   margin-left: 1em;
   color: #2E2F2F;
 }
+
 /*
 NAV BAR HERE
 }
