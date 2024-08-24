@@ -35,7 +35,9 @@ h2 {
   color: #2E2F2F;
 }
 p {
-  margin: 5px;
+  margin: 2px;
+  padding-left: 8px;
+  padding-right: 8px;
 }
 /*
 NAV BAR HERE
