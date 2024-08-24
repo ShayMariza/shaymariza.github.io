@@ -34,7 +34,9 @@ h2 {
   margin-left: 1em;
   color: #2E2F2F;
 }
-
+p {
+  margin: 5px;
+}
 /*
 NAV BAR HERE
 }
