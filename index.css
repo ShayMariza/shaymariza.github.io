@@ -23,13 +23,13 @@ html, body {
 
 h1 {
   text-align: center;
-  font-family: 'Arsenal SC';
+  font-family: Raleway;
   font-size: 30px;
   color: #2E2F2F;
   
 }
 h2 {
-  font-family: 'Arsenal SC';
+  font-family: Raleway;
   font-size: 26px;
   margin-left: 1em;
   color: #2E2F2F;
@@ -54,7 +54,7 @@ ul {
   text-decoration:none;
   color: #DADDFB;
   padding: 8px;
-  font-family: 'Arsenal SC';
+  font-family: Raleway;
   font-size: 22px;
 }
 
@@ -87,7 +87,7 @@ ul {
 }
 
 p {
-  font-family: 'Arsenal SC';
+  font-family: Raleway;
   font-size: 18px;
   color: #2E2F2F;
 }
